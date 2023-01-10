@@ -1,7 +1,7 @@
 ### Hi! Welcome to my github page. 👋
 
 
-I'm Hakan Emekci. Data Scientist, ML Engineer and Economist 
+I'm Hakan Emekci. Data Scientist, ML Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hemekci)
 
