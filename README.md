@@ -20,7 +20,6 @@ PhD in Economics | [Hacettepe University](www.hacettepe.edu.tr/)
 
 Asst. Prof. - TED University
 
-Researcher - Koc University- Computational Social Science Lab.
 
 ## Contact Me 📫
 
