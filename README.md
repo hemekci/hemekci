@@ -1,7 +1,7 @@
 ### Hi! Welcome to my github page. 👋
 
 
-I'm Hakan Emekci. Data Scientist, ML Engineer
+I'm Hakan Emekci. AI Scientist, ML Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hemekci)
 
@@ -18,12 +18,12 @@ PhD in Economics | [Hacettepe University](www.hacettepe.edu.tr/)
 
 ## I'm currently working on 🔭
 
-Asst. Prof. - TED University
+Asst. Prof. - Hacettepe University
 
 
 ## Contact Me 📫
 
-You can find and get touch with me via Linkedin and Instagram!
+You can find and get touch with me via Linkedin!
 
 [![Linkedin Badge](https://img.shields.io/badge/hakanemekci-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hakanemekci/)
-[![Instagram Badge](https://img.shields.io/badge/hakanemekci-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/hakanemekci/)
+
