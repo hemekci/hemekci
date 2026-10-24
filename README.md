@@ -1,7 +1,7 @@
 ### Hi! Welcome to my github page. 👋
 
 
-I'm Hakan Emekci. AI Scientist, ML Engineer
+I'm Hakan Emekci. AI Scientist.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hemekci)
 
@@ -18,7 +18,7 @@ PhD in Economics | [Hacettepe University](www.hacettepe.edu.tr/)
 
 ## I'm currently working on 🔭
 
-Asst. Prof. - Hacettepe University
+Assoc. Prof. - Hacettepe University
 
 
 ## Contact Me 📫
