@@ -18,7 +18,7 @@ PhD in Economics | [Hacettepe University](www.hacettepe.edu.tr/)
 
 ## I'm currently working on 🔭
 
-Assoc. Prof. - Hacettepe University
+Assoc. Prof. Dr. - Hacettepe University
 
 
 ## Contact Me 📫
