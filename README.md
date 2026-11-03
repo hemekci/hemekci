@@ -1,5 +1,6 @@
 ### Hi! Welcome to my github page. 👋
 
+#Personal Page: [Hacettepe University Assoc. Prof. Dr. Hakan Emekci](https://yunus.hacettepe.edu.tr/~hakanemekci)
 
 I'm Hakan Emekci. AI Scientist.
 
